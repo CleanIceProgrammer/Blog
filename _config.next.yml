@@ -1,0 +1,8 @@
+scheme: Muse
+
+codeblock: 
+  highlight_theme: normal
+  copy_button:
+    enable: true
+    show_result: true
+    style: default
